@@ -1,6 +1,6 @@
 # 📦 Sistema de Estoque Premium
 
-![Preview do Sistema](assets/screenshot.png) *(adicione uma screenshot depois)*
+![Preview do Sistema](https://github.com/moaaskt/SistemaDeEstoque/blob/main/telaEstoque.jpg) 
 
 Um sistema de gerenciamento de estoque moderno, responsivo e intuitivo desenvolvido com HTML, CSS e JavaScript puro.
 
@@ -42,7 +42,6 @@ sistema-estoque/
 ├── index.html          # Página principal
 ├── style.css           # Estilos principais
 ├── script.js           # Lógica do sistema
-├── assets/             # Pasta para recursos
   ```
 
 # 📜 Licença
